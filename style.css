@@ -1,1 +1,27 @@
-/* Start coding here */
+#username:disabled {
+  background-color: lightgray;
+}
+
+#username:hover {
+  border-color: khaki;
+}
+
+#email:disabled {
+  background-color: lightgray;
+}
+
+#email:hover {
+  border-color: khaki;
+}
+
+#password:disabled {
+  background-color: lightgray;
+}
+
+#password:hover {
+  border-color: khaki;
+}
+
+.registration-form button:hover {
+  background-color: pink;
+}
